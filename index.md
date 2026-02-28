@@ -99,7 +99,7 @@ benefit from these resources. You can find posts and discussion on
 - [Arabic](https://missing-semester-ar.github.io/)
 - [Bengali](https://missing-semester-bn.github.io/)
 - [Chinese (Simplified)](https://missing-semester-cn.github.io/)
-- [Chinese (Traditional)](https://missing-semester-tw.github.io/)
+- [Chinese (Traditional, Taiwan)](https://missing-semester-tw.github.io/)
 - [German](https://missing-semester-de.github.io/)
 - [Italian](https://missing-semester-it.github.io/)
 - [Japanese](https://missing-semester-jp.github.io/)
